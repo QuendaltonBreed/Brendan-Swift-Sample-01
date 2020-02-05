@@ -15,6 +15,7 @@
 		D35B4C1D23EA586C007D3F63 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D35B4C1B23EA586C007D3F63 /* LaunchScreen.storyboard */; };
 		D35B4C2823EA586C007D3F63 /* Brendan_Swift_Sample_1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D35B4C2723EA586C007D3F63 /* Brendan_Swift_Sample_1Tests.swift */; };
 		D35B4C3323EA586C007D3F63 /* Brendan_Swift_Sample_1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D35B4C3223EA586C007D3F63 /* Brendan_Swift_Sample_1UITests.swift */; };
+		D35B4C4123EA59C6007D3F63 /* earl-grey-loose.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = D35B4C4023EA59C6007D3F63 /* earl-grey-loose.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		D35B4C2E23EA586C007D3F63 /* Brendan Swift Sample 1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Brendan Swift Sample 1UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D35B4C3223EA586C007D3F63 /* Brendan_Swift_Sample_1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Brendan_Swift_Sample_1UITests.swift; sourceTree = "<group>"; };
 		D35B4C3423EA586C007D3F63 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D35B4C4023EA59C6007D3F63 /* earl-grey-loose.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "earl-grey-loose.jpeg"; path = "../../earl-grey-loose.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				D35B4C1223EA5866007D3F63 /* SceneDelegate.swift */,
 				D35B4C1423EA5866007D3F63 /* ViewController.swift */,
 				D35B4C1623EA5866007D3F63 /* Main.storyboard */,
+				D35B4C4023EA59C6007D3F63 /* earl-grey-loose.jpeg */,
 				D35B4C1923EA586C007D3F63 /* Assets.xcassets */,
 				D35B4C1B23EA586C007D3F63 /* LaunchScreen.storyboard */,
 				D35B4C1E23EA586C007D3F63 /* Info.plist */,
@@ -235,6 +238,7 @@
 				D35B4C1D23EA586C007D3F63 /* LaunchScreen.storyboard in Resources */,
 				D35B4C1A23EA586C007D3F63 /* Assets.xcassets in Resources */,
 				D35B4C1823EA5866007D3F63 /* Main.storyboard in Resources */,
+				D35B4C4123EA59C6007D3F63 /* earl-grey-loose.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
